@@ -42,8 +42,13 @@ main {
     text-align: center;
 }
 
+main div {
+    text-align: center;
+}
+
 main > div > img {
-    height: 70vh;
+    height: 50vw;
+    width: 300px;
     margin-bottom: 30px;
 }
 
